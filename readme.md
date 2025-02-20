@@ -19,13 +19,6 @@ Este é um projeto simples que utiliza Streamlit e SQLite para criar um sistema 
 ![Tela Exclusão de Produto](img/image-3.png)
 
 
-
-Rodar o aplicativo: Execute o seguinte comando no terminal para iniciar o aplicativo Streamlit:
-streamlit run app.py (AO EXECUTAR, DEVERÁ SER ABERTA UMA JANELA EM SEU NAVEGADOR, ALGUNS DISPOSITIVOS PEDEM PERMISSÃO PARA ABRIR)
-
-OBS: Crie um arquivo com qualquer nome utilizando python e inicialize o arquivo utilizando o comando acima para ver se está tudo certo!
-
-
 ## Como Executar
 
 1. **Instalar as dependências**:
